@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at Universidade Federal de Minas Gerais (UFMG), with a lot of Python experience.
 
-My interests are Data Science, Machine Learning and Data Mining.
+My interests are Data Analysis, Data Science, Machine Learning and Data Mining.
 
 
 ## My Stats
