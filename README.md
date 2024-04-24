@@ -1,6 +1,6 @@
 ## Hi, I'm Jackson
 
-I'm a Computer Science student at Universidade Federal de Minas Gerais (UFMG), with a lot of Python experience.
+I have a bachelor's degree in computer science from the Federal University of Minas Gerais and I love Python
 
 My interests are Data Analysis, Data Science, Machine Learning and Data Mining.
 
